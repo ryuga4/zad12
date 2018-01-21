@@ -1,0 +1,10 @@
+
+1. Przelicz z systemu ósemkowego na binarny (bez obliczania wartości dziesiętnej): (1 pkt)
+a. (472)8 =
+b. (153)8 =
+c. (544)8 =
+
+
+2. Wykonaj obliczenia (bez przeliczania na system dziesiętny): (1 pkt)
+a. (1101001001)2 + (1001)2 =
+b. (5467271)8 - (14311)8 =

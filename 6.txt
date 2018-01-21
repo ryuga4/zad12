@@ -1,0 +1,9 @@
+
+1. Zbuduj tabelę prawdy oraz skonstruuj układ logiczny realizujący funkcję (2 pkt):
+a. f(x,y) = (~x ∪ ~y) ∩ ~(y ∪ ~x)
+b. f(x,y,z) = ~z ∪ (x ∩ y ∩ ~z)
+c. f(x) = ~x ∩ x
+d. f(x,y,z) = x ∪ y ∪ (~x ∩ ~z)
+2. Zaprojektuj subtraktor jednobitowy (2 pkt).
+3. Napisz wzór funkcji i zbuduj tabelę prawdy realizującą następujący układ logiczny (1 pkt):
+

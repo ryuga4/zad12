@@ -1,0 +1,12 @@
+
+1. Zapisz następujące wyrażenia korzystając z edytora równań: (2 pkt)
+a. 
+
+b. 
+
+c. 
+2. W arkuszu kalkulacyjnym narysuj wykresy następujących funkcji: (2 pkt)
+a. f(x) = 3x + 4 w przedziale <-5, 5>, co 0.2
+b. f(x) = x3– 2x2+4x – 4 w przedziale <-5, 5>, co 0.2
+c. f(x) = 2sin(x) + cos(x) w przedziale <-2π, 2π>, co 0.1
+

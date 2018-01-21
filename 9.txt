@@ -1,0 +1,13 @@
+
+Jako rozwiązania zadań podaj tylko kwerendy do Wolfram Alpha.
+1. Przy użyciu Wolfram Alpha: (1 pkt)
+a. Narysuj wykres funkcji f(x)=cos(x2)-2sin(x3)
+b. Oblicz pochodną funkcji f(x) = x3-x2+5x
+c. Oblicz maksimum funkcji f(x) = -x2+5
+2. Wykonaj wszystkie zadania domowe z konwersji między systemami liczbowymi (Ćwiczenia 1) za pomocą Wolfram Alpha. (2 pkt)
+3. Przy pomocy Wolfram Alpha: (1 pkt)
+a. Znajdź nazwiska sławnych ludzi, którzy urodzili się w Twoje urodziny (niekoniecznie w dzień Twoich narodzin).
+b. Podaj dokładną datę 2 wtorku maja 1942 roku.
+c. Zapisz swoje imię i nazwisko przy pomocy kodu Morse’a.
+
+

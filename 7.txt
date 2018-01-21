@@ -1,0 +1,6 @@
+
+1. Wykonaj zadania 1 i 2 z ćwiczeń na innym komputerze, niż podczas zajęć. (1 pkt)
+2. Znajdź adresy IP serwerów google.com, amu.edu.pl, wmi.amu.edu.pl. (1 pkt)
+3. Prześledź swoją drogę routingu do serwera nyu.edu. Zidentyfikuj jak najwięcej serwerów pośredniczących. (2 pkt)
+
+

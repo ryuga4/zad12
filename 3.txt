@@ -1,0 +1,6 @@
+
+1. Rzucano czterokrotnie symetryczną monetą. Czy komunikat k1: „w czterech rzutach wyrzucono dokładnie trzy razy orła” zawiera więcej, czy mniej informacji, niż komunikat k2: „w czterech rzutach wyrzucono dokładnie trzy razy reszkę”? Ile wynoszą ilości informacji zawarte w tych komunikatach? (1 pkt)
+2. Źródło nadaje 2n jednakowo prawdopodobnych komunikatów. Ile wynosi entropia tego źródła komunikatów? (1 pkt)
+3. Znajdź zero-jedynkowy kod zwarty dla komunikatów k1, k2, k3, k4, k5 pojawiających się z prawdopodobieństwami . Oblicz redundancję zaproponowanego sposobu kodowania. (2 pkt)
+
+

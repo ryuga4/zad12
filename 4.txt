@@ -1,0 +1,6 @@
+
+1. Wygeneruj plik tekstowy o długości równej 100 000 znaków, którego stopień kompresji algorytmem ZIP będzie jak największy. (1 pkt)
+2. Wygeneruj plik tekstowy o długości równej 100 000 znaków, którego stopień kompresji algorytmem ZIP będzie jak najmniejszy. (1 pkt)
+3. Wygeneruj plik BMP, którego stopień kompresji algorytmem JPEG będzie jak największy. (1 pkt)
+4. Wygeneruj plik BMP, którego stopień kompresji algorytmem JPEG będzie jak najmniejszy. (1 pkt)
+

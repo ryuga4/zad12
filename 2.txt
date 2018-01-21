@@ -1,0 +1,16 @@
+
+1. Jaką największą liczbę całkowitą można zapisać na: (1 pkt)
+a. 12 cyfrach binarnych?
+b. 7 cyfrach ósemkowych?
+c. 10 cyfrach szesnastkowych?
+2. Znajdź potrzebną informację i wytłumacz własnymi słowami, jaka była informatyczna przyczyna katastrofy rakiety Arianne 5. (1 pkt)
+3. Oblicz wartość dziesiętną następujących liczb zmiennoprzecinkowych: (1 pkt)
+a. znak=0, mantysa=111, cecha=01
+b. znak=0, mantysa=10, cecha=10
+c. znak=1, mantysa=101, cecha=01
+4. Zapisz swoje imię i nazwisko przy użyciu kodu ASCII (uważaj na wielkie litery). (1 pkt)
+5. Przy użyciu modelu RGB, w którym każda składowa reprezentowana jest liczbą binarną, zapisz następujące kolory: (1 pkt)
+a. Biały
+b. Szary (dowolny odcień)
+c. Niebieski
+

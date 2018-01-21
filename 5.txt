@@ -1,0 +1,7 @@
+
+Zaprojektuj model danych, które mogą być przechowywane przez sklep. Sklep posiada kilka działów. Każdy dział posiada półki z towarami innego typu, np. “spożywcze”, “papiernicze”, “odzież”.
+
+1. Zaprojektuj model danych analogicznie, jak w przypadku biblioteki. (3 pkt)
+2. Zaprojektuj co najmniej trzy typy produktów. (1 pkt)
+
+
